@@ -10,11 +10,6 @@ The system is designed to recommend products to users based on their preferences
 - [Overview](#overview)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Steps for Recommendation](#steps-for-recommendation)
-- [Evaluation](#evaluation)
-- [License](#license)
 
 ## Overview
 The **Hybrid Product Recommender** uses collaborative filtering and content-based filtering to generate personalized recommendations for users.
